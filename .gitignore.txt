@@ -1,0 +1,4 @@
+/chars_original
+/op_chars
+chars_backup.rar
+/.ipynb_checkpoints
